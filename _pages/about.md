@@ -40,7 +40,7 @@ Yunyang Cao, **Juekai Lin**, Hongye Wang, Wenhao Li, Bo Jin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MOCHA: Discovering Multi-Order Dynamic Causality in Temporal Point Processes](https://arxiv.org/abs/2508.18873)
