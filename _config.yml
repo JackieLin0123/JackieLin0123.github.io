@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jackie Lin"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Undergraduate student in the School of Computer Science and Technology, Tongji University"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=54n2DrIAAAAJ&hl=zh-CN"
   email            : "jklin7918@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

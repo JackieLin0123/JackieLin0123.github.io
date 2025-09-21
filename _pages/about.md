@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm Jackie Lin (zh: 林觉凯), a passionate researcher in the field of artificial intelligence and machine learning. I am dedicated to advancing the frontiers of knowledge through innovative research and collaborative work. My journey in academia has been driven by curiosity and a desire to solve complex problems that can benefit society.
+Hello! I'm **Jackie Lin (zh: 林觉凯)**, an undergraduate at the School of Computer Science and Technology, Tongji University, majoring in Software Engineering with a focus on Machine Intelligence. My research interests lie in **multimodal large language models, spatial intelligence and reasoning models, and medical AI models**.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Over the past one and a half years, I have been actively engaged in research at the **MAIL** of Tongji University and East China Normal University. I have had the privilege to be advised by [Assoc. Prof. Bo Jin](https://cs.tongji.edu.cn/info/1063/2768.htm) and [Asst. Prof. Wenhao Li](https://cs.tongji.edu.cn/info/1121/3280.htm), and to collaborate closely with senior colleague **Yunyang Cao**. I am deeply grateful for their guidance and support, which have greatly enriched my undergraduate research experience and helped me build a solid foundation for pursuing advanced studies in AI.  
+
+
 
 
 # 🔥 News
