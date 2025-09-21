@@ -21,7 +21,9 @@ Hello! I'm **Jackie Lin (zh: 林觉凯)**, an undergraduate at the School of Com
 
 Over the past one and a half years, I have been actively engaged in research at the **MAIL** of Tongji University and East China Normal University. I have had the privilege to be advised by [Assoc. Prof. Bo Jin](https://cs.tongji.edu.cn/info/1063/2768.htm) and [Asst. Prof. Wenhao Li](https://cs.tongji.edu.cn/info/1121/3280.htm), and to collaborate closely with senior colleague **Yunyang Cao**. I am deeply grateful for their guidance and support, which have greatly enriched my undergraduate research experience and helped me build a solid foundation for pursuing advanced studies in AI.  
 
+During my undergraduate studies, I achieved a **comprehensive ranking of 9/197 (top 5%)**, which qualified me for **postgraduate recommendation**.  
 
+I am expected to pursue my **Master’s degree in Artificial Intelligence** at the **Digital Media Computing & Design Lab (DCD Lab), Zhejiang University**, under the supervision of [Researcher Wenqiao Zhang](https://person.zju.edu.cn/wenqiao) (ZJU Hundred Talents Program).  
 
 
 # 🔥 News
