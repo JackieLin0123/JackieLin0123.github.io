@@ -90,13 +90,16 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Innovation Project</div><img src='images/Projects/Project2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## SmartPulse — Intelligent Medical Auxiliary Diagnosis Platform  
-*University-level Innovation Project*  
+## SmartPulse: Intelligent Medical Auxiliary Diagnosis Platform
 
-- Built a **full-stack intelligent medical diagnosis system** with **Flask (backend)** and **Vue (frontend)**.  
-- Applied **Clock Logic Neural Network (CLNN)** for interpretable temporal event modeling.  
-- Utilized **LSTM + K-Means** clustering to achieve patient stratification.  
-- Extended by teammates to win the **18th China Undergraduate Computer Design Competition (National level), Big Data Track**.  
+  This project develops an **AI-driven medical diagnosis system** combining interpretable temporal modeling and patient stratification:  
+  - Applied **Clock Logic Neural Network (CLNN)** for interpretable temporal event modeling.  
+  - Used **LSTM + K-Means clustering** to perform patient stratification.  
+  - Built a **full-stack system** with **Flask (backend)** and **Vue (frontend)**, enabling real-time medical assistance.  
+
+  **Achievements:**  
+  - Selected as a *University-level Undergraduate Innovation Project (2024)*  
+  - 🥈 *Second Prize, Big Data Track, 18th China Undergraduate Computer Design Competition* (National level, extended by teammates)  
 
 </div>
 </div>
@@ -104,9 +107,15 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Innovation Project</div><img src='images/Projects/Project3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable Hybrid-Rule Temporal Point Processes](https://arxiv.org/abs/2504.11344)
+## Deep Learning-based Battery Health Evaluation and Prediction
 
-Yunyang Cao, **Juekai Lin**, Hongye Wang, Wenhao Li, Bo Jin
+  This project represents my **first participation in a research-oriented development project**, focusing on **battery health assessment and prediction**:  
+  - Implemented **CNN, RNN, and LSTM models** to evaluate and predict battery performance.  
+  - Designed an interactive **visualization interface** using **Vue.js** for result presentation.  
+
+  **Achievements:**  
+  - Ranked *1st place* among projects of the same level in the *2023 Shanghai Innovation and Entrepreneurship Program*.  
+  - 🥈 *Silver Award, Tongji University Innovation and Entrepreneurship Competition* .  
 
 </div>
 </div>
