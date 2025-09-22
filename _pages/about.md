@@ -73,4 +73,4 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
-- *2024.06 – 2025.09*, *MAIL**, Tongji University & East China Normal University, Shanghai, China   
+- *2024.06 – 2025.09*, **MAIL**, Tongji University & East China Normal University, Shanghai, China   
