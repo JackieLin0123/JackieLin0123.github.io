@@ -53,12 +53,12 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 
 # 🎖 Honors and Awards
 - *2025.07* 🥈 Second Prize, 18th China Undergraduate Computer Design Competition
-- *2025.05* 🥉 Third Prize, Tongji Cup General Education Paper Competition
+- *2025.05* 🥈 Second Prize, 17th Shanghai Collegiate Computer Application Ability Competition  
+- *2025.01* 🥉 Third Prize, Tongji Cup General Education Paper Competition
 - *2024.12* 🥈 Second Prize, Shanghai Division of National Mathematical Contest in Modeling  
 - *2024.12* 🥈 Second-class Scholarship, Outstanding Undergraduate Student, Tongji University  
 - *2023.12* 🥇 First-class Scholarship, Outstanding Undergraduate Student, Tongji University  
 - *2023.11* 🥈 Silver Award, Tongji University Innovation and Entrepreneurship Competition  
-- *2023.07* 🥈 Second Prize, 17th Shanghai Collegiate Computer Application Ability Competition  
 - *2023.05* 🥈 Second Prize, Tongji Cup General Education Paper Competition  
 
 # 📖 Educations
@@ -69,8 +69,35 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 
 
 # 🧩 Projects
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 Innovation Project</div><img src='images/Projects/Project1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable Hybrid-Rule Temporal Point Processes](https://arxiv.org/abs/2504.11344)
+
+Yunyang Cao, **Juekai Lin**, Hongye Wang, Wenhao Li, Bo Jin
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Innovation Project</div><img src='images/Projects/Project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable Hybrid-Rule Temporal Point Processes](https://arxiv.org/abs/2504.11344)
+
+Yunyang Cao, **Juekai Lin**, Hongye Wang, Wenhao Li, Bo Jin
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Innovation Project</div><img src='images/Projects/Project3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable Hybrid-Rule Temporal Point Processes](https://arxiv.org/abs/2504.11344)
+
+Yunyang Cao, **Juekai Lin**, Hongye Wang, Wenhao Li, Bo Jin
+
+</div>
+</div>
 
 # 💻 Internships
 - *2024.06 – 2025.09*, **MAIL**, Tongji University & East China Normal University, Shanghai, China   
