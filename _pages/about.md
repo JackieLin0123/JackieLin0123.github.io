@@ -52,12 +52,20 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07* 🥈 Second Prize, **18th China Undergraduate Computer Design Competition**  
+- *2025.05* 🥉 Third Prize, **Tongji Cup General Education Paper Competition**  
+- *2024.12* 🥈 Second Prize, **Shanghai Division of National Mathematical Contest in Modeling**  
+- *2024.12* 🥈 Second-class Scholarship, **Outstanding Undergraduate Student, Tongji University**  
+- *2023.12* 🥇 First-class Scholarship, **Outstanding Undergraduate Student, Tongji University**  
+- *2023.11* 🥈 Silver Award, **Tongji University Innovation and Entrepreneurship Competition**  
+- *2023.07* 🥈 Second Prize, **17th Shanghai Collegiate Computer Application Ability Competition**  
+- *2023.05* 🥈 Second Prize, **Tongji Cup General Education Paper Competition**  
 
 # 📖 Educations
-- *2022.09 – 2026.06 (expected)*, **B.Eng. in Software Engineering (Machine Intelligence Track)** School of Computer Science and Technology, Tongji University  
-  Supervised by [Assoc. Prof. Bo Jin](https://cs.tongji.edu.cn/info/1063/2768.htm) and [Asst. Prof. Wenhao Li](https://cs.tongji.edu.cn/info/1121/3280.htm) 
+- *2022.09 – 2026.06 (expected)*, **B.Eng. in Software Engineering (Machine Intelligence Track)**  
+  School of Computer Science and Technology, Tongji University  
+  Supervised by [Assoc. Prof. Bo Jin](https://cs.tongji.edu.cn/info/1063/2768.htm) and [Asst. Prof. Wenhao Li](https://cs.tongji.edu.cn/info/1121/3280.htm)
+
 
 
 # 🧩 Projects
