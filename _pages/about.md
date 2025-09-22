@@ -52,14 +52,14 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 </div>
 
 # 🎖 Honors and Awards
-- *2025.07* 🥈 Second Prize, **18th China Undergraduate Computer Design Competition**  
-- *2025.05* 🥉 Third Prize, **Tongji Cup General Education Paper Competition**  
-- *2024.12* 🥈 Second Prize, **Shanghai Division of National Mathematical Contest in Modeling**  
-- *2024.12* 🥈 Second-class Scholarship, **Outstanding Undergraduate Student, Tongji University**  
-- *2023.12* 🥇 First-class Scholarship, **Outstanding Undergraduate Student, Tongji University**  
-- *2023.11* 🥈 Silver Award, **Tongji University Innovation and Entrepreneurship Competition**  
-- *2023.07* 🥈 Second Prize, **17th Shanghai Collegiate Computer Application Ability Competition**  
-- *2023.05* 🥈 Second Prize, **Tongji Cup General Education Paper Competition**  
+- *2025.07* 🥈 Second Prize, 18th China Undergraduate Computer Design Competition
+- *2025.05* 🥉 Third Prize, Tongji Cup General Education Paper Competition
+- *2024.12* 🥈 Second Prize, Shanghai Division of National Mathematical Contest in Modeling  
+- *2024.12* 🥈 Second-class Scholarship, Outstanding Undergraduate Student, Tongji University  
+- *2023.12* 🥇 First-class Scholarship, Outstanding Undergraduate Student, Tongji University  
+- *2023.11* 🥈 Silver Award, Tongji University Innovation and Entrepreneurship Competition  
+- *2023.07* 🥈 Second Prize, 17th Shanghai Collegiate Computer Application Ability Competition  
+- *2023.05* 🥈 Second Prize, Tongji Cup General Education Paper Competition  
 
 # 📖 Educations
 - *2022.09 – 2026.06 (expected)*, **B.Eng. in Software Engineering (Machine Intelligence Track)**  
@@ -73,4 +73,4 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 – 2025.09*, *MAIL**, Tongji University & East China Normal University, Shanghai, China   
