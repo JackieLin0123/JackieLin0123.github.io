@@ -99,7 +99,7 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 
   **Achievements:**  
   - Selected as a *University-level Undergraduate Innovation Project (2024)*  
-  - 🥈 *Second Prize, Big Data Track, 18th China Undergraduate Computer Design Competition* (National level, extended by teammates)  
+  - 🥈 *Second Prize, Big Data Track, 18th China Undergraduate Computer Design Competition* (National level, extended by other teammates)  
 
 </div>
 </div>
