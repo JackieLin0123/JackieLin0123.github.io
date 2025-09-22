@@ -56,8 +56,9 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 – 2026.06 (expected)*, **B.Eng. in Software Engineering (Machine Intelligence Track)** School of Computer Science and Technology, Tongji University  
+  Supervised by [Assoc. Prof. Bo Jin](https://cs.tongji.edu.cn/info/1063/2768.htm) and [Asst. Prof. Wenhao Li](https://cs.tongji.edu.cn/info/1121/3280.htm) 
+
 
 # 🧩 Projects
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
