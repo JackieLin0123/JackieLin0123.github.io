@@ -72,17 +72,7 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 Innovation Project</div><img src='images/Projects/Project1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable Hybrid-Rule Temporal Point Processes](https://arxiv.org/abs/2504.11344)
-
-Yunyang Cao, **Juekai Lin**, Hongye Wang, Wenhao Li, Bo Jin
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Innovation Project</div><img src='images/Projects/Project2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- **SuiAn ZhiKong: Intelligent Tunnel Safety Inspection System**  
+## SuiAn ZhiKong: Intelligent Tunnel Safety Inspection System
 
   This project focuses on **tunnel disease detection and safety monitoring**, integrating computer vision and 3D modeling methods:  
   - Applied **image stitching techniques** to construct panoramic tunnel views.  
@@ -91,8 +81,22 @@ Yunyang Cao, **Juekai Lin**, Hongye Wang, Wenhao Li, Bo Jin
 
   **Achievements:**  
   - Selected as a *Provincial Undergraduate Innovation Project (2025)*  
-  - 🥈 *Second Prize, 17th Shanghai Collegiate Computer Application Ability Competition* (Provincial level)  
-  - 🥈 *Second Prize, 18th China Undergraduate Computer Design Competition* (National level) 
+  - 🥈 *Second Prize, Algorithm Application Track, 17th Shanghai Collegiate Computer Application Ability Competition* (Provincial level)  
+  - 🥈 *Second Prize, Algorithm Application Track, 18th China Undergraduate Computer Design Competition* (National level)  
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Innovation Project</div><img src='images/Projects/Project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## SmartPulse — Intelligent Medical Auxiliary Diagnosis Platform  
+*University-level Innovation Project*  
+
+- Built a **full-stack intelligent medical diagnosis system** with **Flask (backend)** and **Vue (frontend)**.  
+- Applied **Clock Logic Neural Network (CLNN)** for interpretable temporal event modeling.  
+- Utilized **LSTM + K-Means** clustering to achieve patient stratification.  
+- Extended by teammates to win the **18th China Undergraduate Computer Design Competition (National level), Big Data Track**.  
 
 </div>
 </div>
