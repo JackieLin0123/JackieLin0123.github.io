@@ -82,9 +82,17 @@ Yunyang Cao, **Juekai Lin**, Hongye Wang, Wenhao Li, Bo Jin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Innovation Project</div><img src='images/Projects/Project2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable Hybrid-Rule Temporal Point Processes](https://arxiv.org/abs/2504.11344)
+ **SuiAn ZhiKong: Intelligent Tunnel Safety Inspection System**  
 
-Yunyang Cao, **Juekai Lin**, Hongye Wang, Wenhao Li, Bo Jin
+  This project focuses on **tunnel disease detection and safety monitoring**, integrating computer vision and 3D modeling methods:  
+  - Applied **image stitching techniques** to construct panoramic tunnel views.  
+  - Utilized multiple **YOLO-based models** for detecting various types of tunnel defects.  
+  - Built interactive **3D tunnel models** using the **PyVista library** for visualization and analysis.  
+
+  **Achievements:**  
+  - Selected as a *Provincial Undergraduate Innovation Project (2025)*  
+  - 🥈 *Second Prize, 17th Shanghai Collegiate Computer Application Ability Competition* (Provincial level)  
+  - 🥈 *Second Prize, 18th China Undergraduate Computer Design Competition* (National level) 
 
 </div>
 </div>
