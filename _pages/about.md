@@ -25,8 +25,9 @@ During my undergraduate studies, I achieved a **comprehensive ranking** of 9/197
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 One paper passed the first-round review of AAAI 2026.  
+- *2025.07*: &nbsp;🥈 Won the Second Prize at the 18th China Undergraduate Computer Design Competition.  
+- *2025.05*: &nbsp;🎉 One paper was accepted by ECML-PKDD 2025.  
 
 # 📝 Publications 
 
