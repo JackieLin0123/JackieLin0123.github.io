@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm **Juekai Lin (zh: 林觉凯)**, an undergraduate at the School of Computer Science and Technology, Tongji University, majoring in Software Engineering with a focus on Machine Intelligence. My research interests lie in **Multimodal Intelligence， Large Language Models and Time Series Modeling**.
+Hello! I'm **Juekai Lin (zh: 林觉凯)**, an undergraduate at the School of Computer Science and Technology, Tongji University, majoring in Software Engineering with a focus on Machine Intelligence. My research interests lie in **Multimodal Intelligence, Large Language Models and Time Series Modeling**.
 
 Over the past one and a half years, I have been actively engaged in research at the **MAIL of Tongji University and East China Normal University**. I have had the privilege to be advised by [Assoc. Prof. Bo Jin](https://cs.tongji.edu.cn/info/1063/2768.htm) and [Asst. Prof. Wenhao Li](https://cs.tongji.edu.cn/info/1121/3280.htm), and to collaborate closely with senior colleague **Yunyang Cao**. I am deeply grateful for their guidance and support, which have greatly enriched my undergraduate research experience and helped me build a solid foundation for pursuing advanced studies in AI.  
 
