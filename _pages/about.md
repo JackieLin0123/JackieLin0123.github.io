@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I'm **Juekai Lin (zh: 林觉凯)**, an undergraduate at the School of Computer Science and Technology, Tongji University, majoring in Software Engineering with a focus on Machine Intelligence. My research interests lie in **Multimodal Intelligence, Large Language Models and Time Series Modeling**.
 
-Over the past one and a half years, I have been actively engaged in research at the **MAIL of Tongji University and East China Normal University**. I have had the privilege to be advised by [Assoc. Prof. Bo Jin](https://cs.tongji.edu.cn/info/1063/2768.htm) and [Asst. Prof. Wenhao Li](https://cs.tongji.edu.cn/info/1121/3280.htm), and to collaborate closely with senior colleague **Yunyang Cao**. I am deeply grateful for their guidance and support, which have greatly enriched my undergraduate research experience and helped me build a solid foundation for pursuing advanced studies in AI.  
+Over the past one and a half years, I have been actively engaged in research at the **MAIL-TAII(Multi-agent Artificial Intelligence Laboratory and Trustworthy Artificial Intelligence Institution) of Tongji University and East China Normal University**. I have had the privilege to be advised by [Assoc. Prof. Bo Jin](https://cs.tongji.edu.cn/info/1063/2768.htm) and [Asst. Prof. Wenhao Li](https://cs.tongji.edu.cn/info/1121/3280.htm), and to collaborate closely with senior colleague **Yunyang Cao**. I am deeply grateful for their guidance and support, which have greatly enriched my undergraduate research experience and helped me build a solid foundation for pursuing advanced studies in AI.  
 
 During my undergraduate studies, I achieved a **comprehensive ranking** of 9/197 (top 5%), which qualified me for postgraduate recommendation. I am expected to pursue my **Master’s degree in Artificial Intelligence** at the **Digital Media Computing & Design Lab (DCD Lab), Zhejiang University**, under the supervision of [Researcher Wenqiao Zhang](https://person.zju.edu.cn/wenqiao) (ZJU 100 Young Professor).  
 
@@ -121,4 +121,4 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 </div>
 
 # 💻 Internships
-- *2024.06 – 2025.09*, **MAIL**, Tongji University & East China Normal University, Shanghai, China   
+- *2024.06 – 2025.09*, **MAIL-TAII**, Tongji University & East China Normal University, Shanghai, China   
