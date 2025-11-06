@@ -53,6 +53,7 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 </div>
 
 # 🎖 Honors and Awards
+- *2025.11* 🥇 First-class Scholarship, Outstanding Undergraduate Student, Tongji University  
 - *2025.07* 🥈 Second Prize, 18th China Undergraduate Computer Design Competition
 - *2025.05* 🥈 Second Prize, 17th Shanghai Collegiate Computer Application Ability Competition  
 - *2025.01* 🥉 Third Prize, Tongji Cup General Education Paper Competition
