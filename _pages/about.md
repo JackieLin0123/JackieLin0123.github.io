@@ -23,6 +23,7 @@ Over the past one and a half years, I have been actively conducting research at 
 
 During my undergraduate studies, I achieved a **comprehensive ranking** of 9/197 (top 5%), which qualified me for postgraduate recommendation. I am expected to pursue my **Master’s degree in Artificial Intelligence** at the **Digital Media Computing & Design Lab (DCD Lab), Zhejiang University**, under the supervision of [Researcher Wenqiao Zhang](https://person.zju.edu.cn/wenqiao) (ZJU 100 Young Professor).  
 
+Currently, I am undertaking an internship at the [Shanghai AI Laboratory (Shanghai AI Lab)](https://www.shlab.org.cn/), where I work with the [OpenDataLab team (OpenDataLab)](https://opendatalab.com/) under the supervision of [Dr. Lijun Wu](https://apeterswu.github.io/). 
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper passed the first-round review of AAAI 2026.  
@@ -122,3 +123,4 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 
 # 💻 Internships
 - *2024.06 – 2025.09*, **MAIL-TAII**, Tongji University & East China Normal University, Shanghai, China   
+- *2025.11 – 2026.06 (expected)*, **Shanghai AI Laboratory (Shanghai AI Lab)**, Shanghai, China
