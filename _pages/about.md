@@ -124,4 +124,4 @@ Yunyang Cao, **Juekai Lin**, Wenhao Li, Bo Jin
 
 # 💻 Internships
 - *2024.06 – 2025.09*, **MAIL-TAII**, Tongji University & East China Normal University, Shanghai, China   
-- *2025.11 – 2026.06 (expected)*, **Shanghai AI Laboratory (Shanghai AI Lab)**, Shanghai, China
+- *2025.11 – present*, **Shanghai AI Laboratory (Shanghai AI Lab)**, Shanghai, China
